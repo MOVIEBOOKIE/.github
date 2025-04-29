@@ -2,7 +2,7 @@
 🍿 영화관을 더 쉽고 더 자유롭게, 무비부키 ‼️
 
 ## ERD 설계도
-<img width="800" alt="무비부키 v2" src="https://github.com/user-attachments/assets/5c64e8f3-5231-48f4-8035-7a2093cc22e3" />
+<img width="800" alt="무비부키 ERD" src="https://github.com/user-attachments/assets/a8f7f487-5a13-4a70-b3b3-07632e80acb3" />
 
 ## API 명세서
 
