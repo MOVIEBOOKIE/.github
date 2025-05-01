@@ -2,7 +2,7 @@
 🍿 영화관을 더 쉽고 더 자유롭게, 무비부키 ‼️
 
 ## ⚒️ ERD 설계도
-<img width="800" alt="무비부키 ERD" src="https://github.com/user-attachments/assets/a8f7f487-5a13-4a70-b3b3-07632e80acb3" />
+<img width="800" alt="무비부키 ERD" src="https://github.com/user-attachments/assets/75c7d96b-4853-4284-9c5c-d77272540763" />
 
 ## 📃 API 명세서
 * **노션 링크**: https://waiting-candle-f33.notion.site/API-1cc3e5c872e78094864ccd251d8ea004?pvs=4
