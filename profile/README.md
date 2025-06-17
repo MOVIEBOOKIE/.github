@@ -8,7 +8,7 @@
 * **노션 링크**: https://waiting-candle-f33.notion.site/API-1cc3e5c872e78094864ccd251d8ea004?pvs=4
 
 ## 💻 시스템 아키텍쳐
-<img width="700" alt="무비부키 아키텍쳐" src="https://github.com/user-attachments/assets/3e2c150a-8a57-499c-a197-1347baf21147" />
+<img width="688" alt="무비부키 아키텍쳐" src="https://github.com/user-attachments/assets/114a48a2-c605-4e69-832d-be7bd1ca94d9" />
 
 
 ## 🚀 파트별 질문 3가지
